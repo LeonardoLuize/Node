@@ -12,6 +12,8 @@ if(args[0] == "a"){
     c = calc.add(a, b);
 }else if(args[0] == "m"){
     c = calc.mult(a, b);
+}else{
+    console.log("opção inválida, tente de novo :P");
 }
 
 console.log(c)
