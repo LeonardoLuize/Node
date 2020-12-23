@@ -8,6 +8,7 @@ var c = "";
 
 
 
+
 if(args[0] == "a"){
     c = calc.add(a, b);
 }else if(args[0] == "m"){

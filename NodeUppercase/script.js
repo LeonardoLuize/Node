@@ -20,4 +20,5 @@ fs.readFile(fileName, "UTF8", (error, data) =>{
 
         console.log("Arquivo gerado com sucesso!!!");
     })
-})
+    
+}) 
